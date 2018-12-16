@@ -1,0 +1,1 @@
+Shared Directives, like date time format
